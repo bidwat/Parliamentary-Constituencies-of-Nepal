@@ -2,6 +2,8 @@
 
 The full list of parliamentary constituencies of Nepal in a single JSON file. The contents was scraped and formatted form the wikipedia page for [parliamentary constituencies](https://en.wikipedia.org/wiki/List_of_parliamentary_constituencies_of_Nepal) and the children pages of individual constituencies.
 
+Jump to [information about JSON Data](#json-structure)
+
 ## At-a-glance Table
 
 | District                    | Constituency                         | Population | Municipalities / Wards                                                                                                                                                                                                                                                                                                  |
