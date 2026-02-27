@@ -10,76 +10,6 @@
     ]
   },
   {
-    "district": "Sankhuwasabha",
-    "constituencies": [
-      {
-        "name": "Sankhuwasabha 1",
-        "population": 117554,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Solukhumbu",
-    "constituencies": [
-      {
-        "name": "Solukhumbu 1",
-        "population": 81502,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Okhaldhunga",
-    "constituencies": [
-      {
-        "name": "Okhaldhunga 1",
-        "population": 117897,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Khotang",
-    "constituencies": [
-      {
-        "name": "Khotang 1",
-        "population": 142792,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Bhojpur",
-    "constituencies": [
-      {
-        "name": "Bhojpur 1",
-        "population": 123379,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Dhankuta",
-    "constituencies": [
-      {
-        "name": "Dhankuta 1",
-        "population": 116991,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Tehrathum",
-    "constituencies": [
-      {
-        "name": "Tehrathum 1",
-        "population": 71933,
-        "municipalities": []
-      }
-    ]
-  },
-  {
     "district": "Panchthar",
     "constituencies": [
       {
@@ -135,17 +65,16 @@
         "population": 115342,
         "municipalities": [
           {
-            "name": "Deumai Municipality"
+            "name": "Chulachuli Rural Municipality"
           },
           {
-            "name": "Mai Municipality",
-            "wards": [
-              6,
-              7,
-              8,
-              11,
-              12
-            ]
+            "name": "Mangsebung Rural Municipality"
+          },
+          {
+            "name": "Phakphokthum Rural Municipality"
+          },
+          {
+            "name": "Deumai Municipality"
           },
           {
             "name": "Ilam Municipality",
@@ -164,10 +93,12 @@
             ]
           },
           {
-            "name": "Phakphokthum Rural Municipality"
-          },
-          {
-            "name": "Chulachuli Rural Municipality"
+            "name": "Mai Municipality",
+            "wards": [
+              6,
+              7,
+              8
+            ]
           }
         ]
       }
@@ -347,6 +278,46 @@
     ]
   },
   {
+    "district": "Sankhuwasabha",
+    "constituencies": [
+      {
+        "name": "Sankhuwasabha 1",
+        "population": 117554,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Tehrathum",
+    "constituencies": [
+      {
+        "name": "Tehrathum 1",
+        "population": 71933,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Bhojpur",
+    "constituencies": [
+      {
+        "name": "Bhojpur 1",
+        "population": 123379,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Dhankuta",
+    "constituencies": [
+      {
+        "name": "Dhankuta 1",
+        "population": 116991,
+        "municipalities": []
+      }
+    ]
+  },
+  {
     "district": "Morang",
     "constituencies": [
       {
@@ -354,26 +325,16 @@
         "population": 123615,
         "municipalities": [
           {
-            "name": "Letang Municipality"
-          },
-          {
-            "name": "Kerabari Rural Municipality"
+            "name": "Urlabari Municipality"
           },
           {
             "name": "Miklajung Rural Municipality"
           },
           {
-            "name": "Sunwarshi Municipality"
+            "name": "Kerabari Rural Municipality"
           },
           {
-            "name": "Biratnagar Metropolitan City",
-            "wards": [
-              1,
-              2,
-              3,
-              4,
-              5
-            ]
+            "name": "Letang Municipality"
           }
         ]
       },
@@ -382,22 +343,34 @@
         "population": 124729,
         "municipalities": [
           {
-            "name": "Biratnagar Metropolitan City",
+            "name": "Ratuwamai Municipality"
+          },
+          {
+            "name": "Sunawarshi Municipality"
+          },
+          {
+            "name": "Pathari Shanishchare Municipality",
             "wards": [
-              6,
-              7,
+              5,
+              6
+            ]
+          },
+          {
+            "name": "Kanepokhari Rural Municipality",
+            "wards": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "name": "Rangeli Municipality",
+            "wards": [
+              1,
+              2,
+              3,
               8,
-              9,
-              10,
-              11,
-              12,
-              13,
-              14,
-              15,
-              16,
-              17,
-              18,
-              19
+              9
             ]
           }
         ]
@@ -407,16 +380,50 @@
         "population": 149833,
         "municipalities": [
           {
-            "name": "Urlabari Municipality"
+            "name": "Pathari Shanishchare Municipality",
+            "wards": [
+              1,
+              2,
+              3,
+              4,
+              7,
+              8,
+              9,
+              10
+            ]
           },
           {
-            "name": "Pathari Shanischare Municipality"
+            "name": "Kanepokhari Rural Municipality",
+            "wards": [
+              4,
+              5,
+              6,
+              7
+            ]
           },
           {
-            "name": "Kanepokhari Rural Municipality"
+            "name": "Belbari Municipality",
+            "wards": [
+              1,
+              2,
+              3,
+              4,
+              8,
+              9,
+              10,
+              11
+            ]
           },
           {
-            "name": "Gramthan Rural Municipality"
+            "name": "Sundarharaicha Municipality",
+            "wards": [
+              1,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
           }
         ]
       },
@@ -425,19 +432,28 @@
         "population": 110093,
         "municipalities": [
           {
-            "name": "Rangeli Municipality"
+            "name": "Gramthan Rural Municipality"
           },
           {
-            "name": "Katahari Rural Municipality"
+            "name": "Kathahari Rural Municipality"
           },
           {
-            "name": "Dhanpalthan Rural Municipality"
+            "name": "Belbari Municipality",
+            "wards": [
+              5,
+              6,
+              7
+            ]
           },
           {
-            "name": "Jahada Rural Municipality"
-          },
-          {
-            "name": "Budhiganga Rural Municipality"
+            "name": "Biratnagar Metropolitan City",
+            "wards": [
+              1,
+              2,
+              3,
+              8,
+              10
+            ]
           }
         ]
       },
@@ -446,13 +462,30 @@
         "population": 100494,
         "municipalities": [
           {
-            "name": "Ratuwamai Municipality"
+            "name": "Dhanpalthan Rural Municipality"
           },
           {
-            "name": "Sundarharaicha Municipality"
+            "name": "Jahada Rural Municipality"
           },
           {
-            "name": "Belbari Municipality"
+            "name": "Rangeli Municipality",
+            "wards": [
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "name": "Biratnagar Metropolitan City",
+            "wards": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
           }
         ]
       },
@@ -461,13 +494,30 @@
         "population": 126761,
         "municipalities": [
           {
-            "name": "Sunawarshi Municipality"
+            "name": "Budhiganga Rural Municipality"
           },
           {
-            "name": "Jahada Rural Municipality"
+            "name": "Sundarharaicha Municipality",
+            "wards": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
           },
           {
-            "name": "Mechinagar Municipality (parts)"
+            "name": "Biratnagar Metropolitan City",
+            "wards": [
+              4,
+              5,
+              6,
+              7,
+              9,
+              11,
+              12
+            ]
           }
         ]
       }
@@ -484,7 +534,21 @@
             "name": "Dharan Sub-metropolitan City"
           },
           {
-            "name": "Baraha Municipality"
+            "name": "Barah Municipality",
+            "wards": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "name": "Ramdhuni Municipality",
+            "wards": [
+              6,
+              7
+            ]
           }
         ]
       },
@@ -493,13 +557,50 @@
         "population": 149566,
         "municipalities": [
           {
-            "name": "Itahari Sub-metropolitan City"
+            "name": "Dewangunj Rural Municipality"
           },
           {
-            "name": "Barju Rural Municipality"
+            "name": "Harinagara Rural Municipality",
+            "wards": [
+              3
+            ]
           },
           {
-            "name": "Koshi Rural Municipality"
+            "name": "Ramdhuni Municipality",
+            "wards": [
+              1,
+              2,
+              3,
+              5,
+              8,
+              9
+            ]
+          },
+          {
+            "name": "Inaruwa Municipality",
+            "wards": [
+              1,
+              2,
+              5,
+              6,
+              9,
+              10
+            ]
+          },
+          {
+            "name": "Itahari Sub-metropolitan City",
+            "wards": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
           }
         ]
       },
@@ -508,16 +609,34 @@
         "population": 125432,
         "municipalities": [
           {
-            "name": "Inaruwa Municipality"
+            "name": "Gadhi Rural Municipality"
+          },
+          {
+            "name": "Barju Rural Municipality"
           },
           {
             "name": "Duhabi Municipality"
           },
           {
-            "name": "Ramdhuni Municipality"
+            "name": "Inaruwa Municipality",
+            "wards": [
+              7
+            ]
           },
           {
-            "name": "Harinagara Rural Municipality"
+            "name": "Itahari Sub-metropolitan City",
+            "wards": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
           }
         ]
       },
@@ -526,18 +645,78 @@
         "population": 128065,
         "municipalities": [
           {
-            "name": "Bhokraha Narsingh Rural Municipality"
+            "name": "Koshi Rural Municipality"
           },
           {
-            "name": "Dewanganj Rural Municipality"
+            "name": "Bhokraha Rural Municipality"
           },
           {
-            "name": "Gadhi Rural Municipality"
+            "name": "Barah Municipality",
+            "wards": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
           },
           {
-            "name": "Barahachhetra Municipality"
+            "name": "Ramdhuni Municipality",
+            "wards": [
+              4
+            ]
+          },
+          {
+            "name": "Inaruwa Municipality",
+            "wards": [
+              3,
+              4,
+              8
+            ]
+          },
+          {
+            "name": "Harinagara Rural Municipality",
+            "wards": [
+              1,
+              2,
+              4,
+              5,
+              6,
+              7
+            ]
           }
         ]
+      }
+    ]
+  },
+  {
+    "district": "Solukhumbu",
+    "constituencies": [
+      {
+        "name": "Solukhumbu 1",
+        "population": 81502,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Khotang",
+    "constituencies": [
+      {
+        "name": "Khotang 1",
+        "population": 142792,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Okhaldhunga",
+    "constituencies": [
+      {
+        "name": "Okhaldhunga 1",
+        "population": 117897,
+        "municipalities": []
       }
     ]
   },
@@ -552,34 +731,10 @@
             "name": "Belaka Municipality"
           },
           {
-            "name": "Udayapurgadhi Rural Municipality"
+            "name": "Chaudandhigadhi Municipality"
           },
           {
-            "name": "Rautamai Rural Municipality"
-          },
-          {
-            "name": "Tapli Rural Municipality"
-          },
-          {
-            "name": "Chaudandigadhi Municipality",
-            "wards": [
-              1,
-              2,
-              3,
-              4,
-              5
-            ]
-          },
-          {
-            "name": "Triyuga Municipality",
-            "wards": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6
-            ]
+            "name": "Triyuga Municipality"
           }
         ]
       },
@@ -588,35 +743,13 @@
         "population": 93421,
         "municipalities": [
           {
-            "name": "Katari Municipality"
+            "name": "Belaka Municipality"
           },
           {
-            "name": "Limchungbung Rural Municipality"
+            "name": "Chaudandhigadhi Municipality"
           },
           {
-            "name": "Chaudandigadhi Municipality",
-            "wards": [
-              6,
-              7,
-              8,
-              9,
-              10,
-              11,
-              12
-            ]
-          },
-          {
-            "name": "Triyuga Municipality",
-            "wards": [
-              7,
-              8,
-              9,
-              10,
-              11,
-              12,
-              13,
-              14
-            ]
+            "name": "Triyuga Municipality"
           }
         ]
       }
@@ -642,7 +775,7 @@
             "name": "Kanchanrup Municipality"
           },
           {
-            "name": "Hanumannagar Kankalini Municipality"
+            "name": "Hanumannagar Kanalini Municipality"
           }
         ]
       },
@@ -654,13 +787,13 @@
             "name": "Rajbiraj Municipality"
           },
           {
-            "name": "Bodebarsain Municipality"
-          },
-          {
-            "name": "Bishnupur Rural Municipality"
-          },
-          {
             "name": "Mahadeva Rural Municipality"
+          },
+          {
+            "name": "Tilathi Koiladi Rural Municipality"
+          },
+          {
+            "name": "Chinnamasta Rural Municipality"
           }
         ]
       },
@@ -669,19 +802,19 @@
         "population": 104892,
         "municipalities": [
           {
+            "name": "Rupani Rural Municipality"
+          },
+          {
+            "name": "Bishnupur Rural Municipality"
+          },
+          {
+            "name": "Belhi Chapena Rural Municipality"
+          },
+          {
+            "name": "Sambhunath Municipality"
+          },
+          {
             "name": "Dakneshwari Municipality"
-          },
-          {
-            "name": "Surunga Municipality"
-          },
-          {
-            "name": "Rajgadh Rural Municipality"
-          },
-          {
-            "name": "Balan Bihul Rural Municipality"
-          },
-          {
-            "name": "Tilathi Koiladi Rural Municipality"
           }
         ]
       },
@@ -690,16 +823,16 @@
         "population": 104893,
         "municipalities": [
           {
-            "name": "Shambhunath Municipality"
+            "name": "Surunga Municipality"
           },
           {
-            "name": "Chhinnamasta Rural Municipality"
+            "name": "Khadak Municipality"
           },
           {
-            "name": "Rupani Rural Municipality"
+            "name": "Bode Barsain Municipality"
           },
           {
-            "name": "Belhi Chapena Rural Municipality"
+            "name": "Balan Bihul Rural Municipality"
           }
         ]
       }
@@ -713,16 +846,30 @@
         "population": 106201,
         "municipalities": [
           {
+            "name": "Bhagwanpur Rural Municipality"
+          },
+          {
+            "name": "Sakhuwanankar Katti Rural Municipality"
+          },
+          {
             "name": "Lahan Municipality"
           },
           {
-            "name": "Laxmipur Patari Rural Municipality"
+            "name": "Laxmipur Patari Rural Municipality",
+            "wards": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
           },
           {
-            "name": "Naraha Rural Municipality"
-          },
-          {
-            "name": "Aurahi Rural Municipality"
+            "name": "Dhangadhimai Municipality",
+            "wards": [
+              1,
+              2
+            ]
           }
         ]
       },
@@ -731,19 +878,52 @@
         "population": 107465,
         "municipalities": [
           {
-            "name": "Mirchaiya Municipality"
+            "name": "Nawarajpur Rural Municipality"
           },
           {
-            "name": "Siraha Municipality"
+            "name": "Bariyarpatti Rural Municipality"
           },
           {
-            "name": "Karjanha Municipality"
+            "name": "Aurahi Rural Municipality"
           },
           {
-            "name": "Arnama Rural Municipality"
+            "name": "Sukhipur Municipality"
           },
           {
-            "name": "Bhagwanpur Rural Municipality"
+            "name": "Arnama Rural Municipality",
+            "wards": [
+              4,
+              5
+            ]
+          },
+          {
+            "name": "Dhangadhimai Municipality",
+            "wards": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "name": "Laxmipur Patari Rural Municipality",
+            "wards": [
+              1
+            ]
+          },
+          {
+            "name": "Golbazar Municipality",
+            "wards": [
+              13
+            ]
           }
         ]
       },
@@ -752,22 +932,46 @@
         "population": 109271,
         "municipalities": [
           {
-            "name": "Golbazar Municipality"
+            "name": "Siraha Municipality"
           },
           {
-            "name": "Dhangadhimai Municipality"
+            "name": "Naraha Rural Municipality",
+            "wards": [
+              1,
+              2
+            ]
           },
           {
-            "name": "Sukhipur Municipality"
+            "name": "Bishnupur Rural Municipality",
+            "wards": [
+              1,
+              5
+            ]
           },
           {
-            "name": "Bariyarpatti Rural Municipality"
+            "name": "Arnama Rural Municipality",
+            "wards": [
+              1,
+              2,
+              3
+            ]
           },
           {
-            "name": "Bishnupur Rural Municipality"
-          },
-          {
-            "name": "Navarajpur Rural Municipality"
+            "name": "Golbazar Municipality",
+            "wards": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
           }
         ]
       },
@@ -776,13 +980,29 @@
         "population": 99775,
         "municipalities": [
           {
-            "name": "Kalyanpur Municipality"
+            "name": "Karjanha Municipality"
           },
           {
-            "name": "Sakhuwanankarkatti Rural Municipality"
+            "name": "Mirchaiya Municipality"
           },
           {
-            "name": "Lakshmipur Patari Rural Municipality (parts)"
+            "name": "kalyanpur Municipality"
+          },
+          {
+            "name": "Naraha Rural Municipality",
+            "wards": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "name": "Bishnupur Rural Municipality",
+            "wards": [
+              2,
+              3,
+              4
+            ]
           }
         ]
       }
@@ -830,7 +1050,7 @@
             ]
           },
           {
-            "name": "Chhireshwarnath Municipality",
+            "name": "Chhirreshwarnath Municipality",
             "wards": [
               8,
               9
@@ -1288,9 +1508,6 @@
         "name": "Sarlahi 4",
         "population": 112494,
         "municipalities": [
-          {
-            "name": "Godaita Municipality"
-          },
           {
             "name": "Dhankaul Rural Municipality"
           },
@@ -1842,39 +2059,52 @@
     ]
   },
   {
-    "district": "Rasuwa",
+    "district": "Sindhuli",
     "constituencies": [
       {
-        "name": "Rasuwa 1",
-        "population": 39459,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Sindhupalchok",
-    "constituencies": [
-      {
-        "name": "Sindhupalchok 1",
-        "population": 130709,
+        "name": "Sindhuli 1",
+        "population": 107136,
         "municipalities": [
           {
-            "name": "Jugal Rural Municipality"
+            "name": "Golanjor Rural Municipality"
           },
           {
-            "name": "Bhotekoshi Rural Municipality"
+            "name": "Phikkal Rural Municipality"
           },
           {
-            "name": "Lisankhu Pakhar Rural Municipality"
+            "name": "Tinpatan Rural Municipality"
           },
           {
-            "name": "Helambu Rural Municipality"
+            "name": "Dudhauli Municipality"
           },
           {
-            "name": "Barhabise Municipality"
+            "name": "Kamalamai Municipality",
+            "wards": [
+              9,
+              13,
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sindhuli 2",
+        "population": 101233,
+        "municipalities": [
+          {
+            "name": "Hariharpurigadhi Rural Municipality"
           },
           {
-            "name": "Chautara Sangachokgadhi Municipality",
+            "name": "Marin Rural Municipality"
+          },
+          {
+            "name": "Ghanglekh Rural Municipality"
+          },
+          {
+            "name": "Sunkoshi Rural Municipality"
+          },
+          {
+            "name": "Kamalamai Municipality",
             "wards": [
               1,
               2,
@@ -1883,40 +2113,23 @@
               5,
               6,
               7,
-              8
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Sindhupalchok 2",
-        "population": 129564,
-        "municipalities": [
-          {
-            "name": "Sunkoshi Rural Municipality"
-          },
-          {
-            "name": "Indrawati Rural Municipality"
-          },
-          {
-            "name": "Tripurasundari Rural Municipality"
-          },
-          {
-            "name": "Panchpokhari Thangpal Rural Municipality"
-          },
-          {
-            "name": "Melamchi Municipality"
-          },
-          {
-            "name": "Chautara Sangachokgadhi Municipality",
-            "wards": [
-              9,
+              8,
               10,
               11,
               12
             ]
           }
         ]
+      }
+    ]
+  },
+  {
+    "district": "Rasuwa",
+    "constituencies": [
+      {
+        "name": "Rasuwa 1",
+        "population": 39459,
+        "municipalities": []
       }
     ]
   },
@@ -2054,18 +2267,26 @@
           {
             "name": "Kathmandu Metropolitan City",
             "wards": [
-              5,
-              6,
-              32,
-              33,
-              34
+              9,
+              32
             ]
           },
           {
-            "name": "Kageshwari-Manohara Municipality"
+            "name": "Shankharapur Municipality",
+            "wards": [
+              9
+            ]
           },
           {
-            "name": "Shankharapur Municipality"
+            "name": "Kageshwari-Manohara Municipality",
+            "wards": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
           }
         ]
       },
@@ -2074,20 +2295,21 @@
         "population": 58889,
         "municipalities": [
           {
-            "name": "Kathmandu Metropolitan City",
+            "name": "Gokarneshwar Municipality"
+          },
+          {
+            "name": "Kageshwari-Manohara Municipality",
             "wards": [
-              3,
-              4,
-              13,
-              16,
-              28
+              1,
+              2,
+              3
             ]
           },
           {
-            "name": "Tokha Municipality"
-          },
-          {
-            "name": "Gokarneshwar Municipality"
+            "name": "Kathmandu Metropolitan City",
+            "wards": [
+              6
+            ]
           }
         ]
       },
@@ -2127,8 +2349,9 @@
             "name": "Kathmandu Metropolitan City",
             "wards": [
               2,
-              9,
-              15
+              3,
+              4,
+              5
             ]
           },
           {
@@ -2142,7 +2365,15 @@
             ]
           },
           {
-            "name": "Tarakeshwar Municipality"
+            "name": "Tokha Municipality",
+            "wards": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
           }
         ]
       },
@@ -2153,12 +2384,32 @@
           {
             "name": "Kathmandu Metropolitan City",
             "wards": [
-              17,
-              18,
-              19,
-              20,
               26,
-              27
+              27,
+              28
+            ]
+          },
+          {
+            "name": "Tokha Municipality",
+            "wards": [
+              1,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "name": "Tarakeshwar Municipality",
+            "wards": [
+              1,
+              2,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
             ]
           }
         ]
@@ -2170,9 +2421,26 @@
           {
             "name": "Kathmandu Metropolitan City",
             "wards": [
-              23,
-              24,
+              16,
+              17,
+              18,
               25
+            ]
+          },
+          {
+            "name": "Nagarjun Municipality",
+            "wards": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "name": "Tarakeshwar Municipality",
+            "wards": [
+              3,
+              4,
+              5
             ]
           }
         ]
@@ -2184,15 +2452,17 @@
           {
             "name": "Kathmandu Metropolitan City",
             "wards": [
-              35
+              13,
+              15,
+              19,
+              20,
+              23,
+              24
             ]
           },
           {
             "name": "Nagarjun Municipality",
             "wards": [
-              1,
-              2,
-              3,
               4,
               5
             ]
@@ -2303,7 +2573,7 @@
             "name": "Mahankal Rural Municipality"
           },
           {
-            "name": "Bagmati Rural Municipality"
+            "name": "Bagamti Rural Municipality"
           },
           {
             "name": "Konjyosom Rural Municipality"
@@ -2485,64 +2755,70 @@
     ]
   },
   {
-    "district": "Sindhuli",
+    "district": "Sindhupalchok",
     "constituencies": [
       {
-        "name": "Sindhuli 1",
-        "population": 107136,
+        "name": "Sindhupalchok 1",
+        "population": 130709,
         "municipalities": [
           {
-            "name": "Golanjor Rural Municipality"
+            "name": "Jugal Rural Municipality"
           },
           {
-            "name": "Phikkal Rural Municipality"
+            "name": "Bhotekoshi Rural Municipality"
           },
           {
-            "name": "Tinpatan Rural Municipality"
+            "name": "Trupurasundari Rural Municipality"
           },
           {
-            "name": "Dudhauli Municipality"
-          },
-          {
-            "name": "Kamalamai Municipality",
-            "wards": [
-              9,
-              13,
-              14
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Sindhuli 2",
-        "population": 101233,
-        "municipalities": [
-          {
-            "name": "Hariharpurigadhi Rural Municipality"
-          },
-          {
-            "name": "Marin Rural Municipality"
-          },
-          {
-            "name": "Ghanglekh Rural Municipality"
+            "name": "Lisangkhu Pakhar Rural Municipality"
           },
           {
             "name": "Sunkoshi Rural Municipality"
           },
           {
-            "name": "Kamalamai Municipality",
+            "name": "Balephi Rural Municipality"
+          },
+          {
+            "name": "Barhabise Municipality"
+          },
+          {
+            "name": "Chautera Sangachokgadhi Municipality",
             "wards": [
-              1,
               2,
               3,
               4,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sindhupalchok 2",
+        "population": 129564,
+        "municipalities": [
+          {
+            "name": "Indrawati Rural Municipality"
+          },
+          {
+            "name": "Helambu Rural Municipality"
+          },
+          {
+            "name": "Panchpokhari Thangpal Rural Municipality"
+          },
+          {
+            "name": "Chautera Sangachokgadhi Municipality",
+            "wards": [
+              1,
               5,
               6,
               7,
               8,
-              10,
               11,
-              12
+              12,
+              13,
+              14
             ]
           }
         ]
@@ -2693,6 +2969,7 @@
             "name": "Bharatpur Metropolitan City",
             "wards": [
               6,
+              7,
               8,
               9,
               13,
@@ -2714,56 +2991,6 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "district": "Manang",
-    "constituencies": [
-      {
-        "name": "Manang 1",
-        "population": 6779,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Mustang",
-    "constituencies": [
-      {
-        "name": "Mustang 1",
-        "population": 10957,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Myagdi",
-    "constituencies": [
-      {
-        "name": "Myagdi 1",
-        "population": 86120,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Lamjung",
-    "constituencies": [
-      {
-        "name": "Lamjung 1",
-        "population": 133559,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Parbat",
-    "constituencies": [
-      {
-        "name": "Parbat 1",
-        "population": 122649,
-        "municipalities": []
       }
     ]
   },
@@ -2832,6 +3059,26 @@
             ]
           }
         ]
+      }
+    ]
+  },
+  {
+    "district": "Manang",
+    "constituencies": [
+      {
+        "name": "Manang 1",
+        "population": 6779,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Lamjung",
+    "constituencies": [
+      {
+        "name": "Lamjung 1",
+        "population": 133559,
+        "municipalities": []
       }
     ]
   },
@@ -2983,7 +3230,67 @@
     ]
   },
   {
-    "district": "Nawalpur (Nawalparasi East)",
+    "district": "Syangja",
+    "constituencies": [
+      {
+        "name": "Syangja 1",
+        "population": 127411,
+        "municipalities": [
+          {
+            "name": "Arjunchaupari Rural Municipality"
+          },
+          {
+            "name": "Aandhikhola Rural Municipality"
+          },
+          {
+            "name": "Phedikhola Rural Municipality"
+          },
+          {
+            "name": "Putalibazar Municipality"
+          },
+          {
+            "name": "Biruwa Rural Municipality"
+          },
+          {
+            "name": "Harinas Rural Municipality"
+          },
+          {
+            "name": "Bhirkot Municipality",
+            "wards": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "name": "Waling Municipality",
+            "wards": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Syangja 2",
+        "population": 116678,
+        "municipalities": [
+          {
+            "name": "Kaligandaki Rural Municipality"
+          },
+          {
+            "name": "Galyang Municipality"
+          },
+          {
+            "name": "Chapakot Municipality"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "district": "Nawalpur [ a ]",
     "constituencies": [
       {
         "name": "Nawalparasi (Bardaghat Susta East) 1",
@@ -3047,75 +3354,22 @@
     ]
   },
   {
-    "district": "Syangja",
+    "district": "Mustang",
     "constituencies": [
       {
-        "name": "Syangja 1",
-        "population": 127411,
-        "municipalities": [
-          {
-            "name": "Arjunchaupari Rural Municipality"
-          },
-          {
-            "name": "Aandhikhola Rural Municipality"
-          },
-          {
-            "name": "Phedikhola Rural Municipality"
-          },
-          {
-            "name": "Putalibazar Municipality"
-          },
-          {
-            "name": "Biruwa Rural Municipality"
-          },
-          {
-            "name": "Harinas Rural Municipality"
-          },
-          {
-            "name": "Bhirkot Municipality",
-            "wards": [
-              1,
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "name": "Waling Municipality",
-            "wards": [
-              3,
-              4
-            ]
-          }
-        ]
-      },
+        "name": "Mustang 1",
+        "population": 10957,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Myagdi",
+    "constituencies": [
       {
-        "name": "Syangja 2",
-        "population": 116678,
-        "municipalities": [
-          {
-            "name": "Kaligandaki Rural Municipality"
-          },
-          {
-            "name": "Galyang Municipality"
-          },
-          {
-            "name": "Chapakot Municipality"
-          },
-          {
-            "name": "Waling Municipality",
-            "wards": [
-              5,
-              6,
-              7,
-              8,
-              9
-            ]
-          },
-          {
-            "name": "Bhirkot Municipality (remaining wards)"
-          }
-        ]
+        "name": "Myagdi 1",
+        "population": 86120,
+        "municipalities": []
       }
     ]
   },
@@ -3154,7 +3408,7 @@
             "name": "Badigad Rural Municipality"
           },
           {
-            "name": "Taman Khola Rural Municipality"
+            "name": "Taman Khol Rural Municipality"
           },
           {
             "name": "Dhorpatan Municipality"
@@ -3167,41 +3421,11 @@
     ]
   },
   {
-    "district": "Rukum East",
+    "district": "Parbat",
     "constituencies": [
       {
-        "name": "Rukum East 1",
-        "population": 34112,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Rolpa",
-    "constituencies": [
-      {
-        "name": "Rolpa 1",
-        "population": 145471,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Pyuthan",
-    "constituencies": [
-      {
-        "name": "Pyuthan 1",
-        "population": 159760,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Arghakhanchi",
-    "constituencies": [
-      {
-        "name": "Arghakhanchi 1",
-        "population": 164768,
+        "name": "Parbat 1",
+        "population": 122649,
         "municipalities": []
       }
     ]
@@ -3307,7 +3531,8 @@
               4,
               5,
               6,
-              7
+              7,
+              8
             ]
           },
           {
@@ -3376,7 +3601,17 @@
     ]
   },
   {
-    "district": "Nawalparasi West (Parasi)",
+    "district": "Arghakhanchi",
+    "constituencies": [
+      {
+        "name": "Arghakhanchi 1",
+        "population": 164768,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Nawalparasi (West of Bardaghat Susta) [ a ]",
     "constituencies": [
       {
         "name": "Nawalparasi (Bardaghat Susta West) 1",
@@ -3516,7 +3751,7 @@
             "name": "Sudhdhodhan Rural Municipality"
           },
           {
-            "name": "Siddharthanagar Municipality"
+            "name": "Sidhhartanagar Municipality"
           },
           {
             "name": "Siyari Rural Municipality",
@@ -3529,7 +3764,7 @@
             ]
           },
           {
-            "name": "Omsatiya Rural Municipality",
+            "name": "Omasatiya Rural Municipality",
             "wards": [
               2
             ]
@@ -3689,7 +3924,7 @@
         "population": 121676,
         "municipalities": [
           {
-            "name": "Buddhabhumi Municipality"
+            "name": "Budhhabhumi Municipality"
           },
           {
             "name": "Yashodhara Rural Municipality"
@@ -3747,6 +3982,36 @@
     ]
   },
   {
+    "district": "Eastern Rukum",
+    "constituencies": [
+      {
+        "name": "Eastern Rukum 1",
+        "population": 34112,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Rolpa",
+    "constituencies": [
+      {
+        "name": "Rolpa 1",
+        "population": 145471,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Pyuthan",
+    "constituencies": [
+      {
+        "name": "Pyuthan 1",
+        "population": 159760,
+        "municipalities": []
+      }
+    ]
+  },
+  {
     "district": "Dang",
     "constituencies": [
       {
@@ -3760,7 +4025,7 @@
             "name": "Rapti Rural Municipality"
           },
           {
-            "name": "Rajpur Rural Municipality"
+            "name": "Rajpur Rual Municipality"
           },
           {
             "name": "Lamahi Municipality"
@@ -3938,7 +4203,7 @@
             "name": "Bansgadhi Municipality"
           },
           {
-            "name": "Bedhaiyatal Rural Municipality"
+            "name": "Badhaiyatal Rural Municipality"
           },
           {
             "name": "Gulariya Municipality"
@@ -3987,6 +4252,16 @@
     ]
   },
   {
+    "district": "Salyan",
+    "constituencies": [
+      {
+        "name": "Salyan 1",
+        "population": 157701,
+        "municipalities": []
+      }
+    ]
+  },
+  {
     "district": "Dolpa",
     "constituencies": [
       {
@@ -4002,16 +4277,6 @@
       {
         "name": "Mugu 1",
         "population": 35485,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Humla",
-    "constituencies": [
-      {
-        "name": "Humla 1",
-        "population": 32857,
         "municipalities": []
       }
     ]
@@ -4037,31 +4302,21 @@
     ]
   },
   {
+    "district": "Humla",
+    "constituencies": [
+      {
+        "name": "Humla 1",
+        "population": 32857,
+        "municipalities": []
+      }
+    ]
+  },
+  {
     "district": "Jajarkot",
     "constituencies": [
       {
         "name": "Jajarkot 1",
         "population": 103363,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Rukum West",
-    "constituencies": [
-      {
-        "name": "Rukum West 1",
-        "population": 104280,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Salyan",
-    "constituencies": [
-      {
-        "name": "Salyan 1",
-        "population": 157701,
         "municipalities": []
       }
     ]
@@ -4184,61 +4439,21 @@
     ]
   },
   {
+    "district": "Western Rukum",
+    "constituencies": [
+      {
+        "name": "Western Rukum 1",
+        "population": 104280,
+        "municipalities": []
+      }
+    ]
+  },
+  {
     "district": "Bajura",
     "constituencies": [
       {
         "name": "Bajura 1",
         "population": 83567,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Bajhang",
-    "constituencies": [
-      {
-        "name": "Bajhang 1",
-        "population": 122376,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Darchula",
-    "constituencies": [
-      {
-        "name": "Darchula 1",
-        "population": 89154,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Baitadi",
-    "constituencies": [
-      {
-        "name": "Baitadi 1",
-        "population": 150156,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Dadeldhura",
-    "constituencies": [
-      {
-        "name": "Dadeldhura 1",
-        "population": 91201,
-        "municipalities": []
-      }
-    ]
-  },
-  {
-    "district": "Doti",
-    "constituencies": [
-      {
-        "name": "Doti 1",
-        "population": 124870,
         "municipalities": []
       }
     ]
@@ -4287,6 +4502,26 @@
             "name": "Turmakhad Rural Municipality"
           }
         ]
+      }
+    ]
+  },
+  {
+    "district": "Bajhang",
+    "constituencies": [
+      {
+        "name": "Bajhang 1",
+        "population": 122376,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Doti",
+    "constituencies": [
+      {
+        "name": "Doti 1",
+        "population": 124870,
+        "municipalities": []
       }
     ]
   },
@@ -4412,6 +4647,36 @@
             ]
           }
         ]
+      }
+    ]
+  },
+  {
+    "district": "Darchula",
+    "constituencies": [
+      {
+        "name": "Darchula 1",
+        "population": 89154,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Baitadi",
+    "constituencies": [
+      {
+        "name": "Baitadi 1",
+        "population": 150156,
+        "municipalities": []
+      }
+    ]
+  },
+  {
+    "district": "Dadeldhura",
+    "constituencies": [
+      {
+        "name": "Dadeldhura 1",
+        "population": 91201,
+        "municipalities": []
       }
     ]
   },
